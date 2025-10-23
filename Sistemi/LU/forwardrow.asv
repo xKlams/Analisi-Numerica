@@ -1,6 +1,0 @@
-function b = forwardrow(A,b)
-    n = size(A,1);
-    for i = 1:n
-        b(i) = b(i) 
-    end
-end
